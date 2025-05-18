@@ -79,7 +79,7 @@ export default function FeedPage() {
       <aside className="w-1/4 bg-gray-100 p-4 border-r">
         <div className="flex flex-col items-center">
           <div className="w-24 h-24 bg-gray-300 rounded-full mb-4" />
-          <h2 className="text-xl font-semibold">Seonwoo Bae</h2>
+          <h2 className="text-xl font-semibold">Seonwoo Baeeee</h2>
           <p className="text-sm text-gray-600 text-center mb-2"></p>
           <div className="flex space-x-4 mb-6">
             <a href="https://linkedin.com" target="_blank" className="w-5 h-5 bg-gray-400 rounded" />
