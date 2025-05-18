@@ -1,0 +1,14 @@
+# dependencies
+/node_modules/
+
+# Next.js build output
+/.next/
+
+# local env vars
+.env.local
+
+# VS Code settings
+.vscode/
+
+# macOS metadata
+.DS_Store
